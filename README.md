@@ -3,5 +3,5 @@
 
 
 
-Creado con tecnologias de: Javascript, Css y Html
+Creado con tecnologías de: Javascript, Css y Html
 ------------------
